@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**aleksavlad/aleksavlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+ <summary>Github stats</summary>
 
-Here are some ideas to get you started:
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksavlad&show_icons=true&theme=tokyonight" alt="Vimmer github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzayenilyes&layout=compact&theme=tokyonight&langs_count=4" />|
+| ------------- | ------------- |
+  
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+<div align="center">
+ <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,ts,zig,go,python,react,nextjs,nodejs,expressjs,nestjs,fastapi,htmx,angular,nuxtjs,tailwind,sass,materialui,threejs,supabase,mysql,wordpress,postgres,mongodb,redis,firebase,graphql,git,github,vscode,neovim,vim,figma,kubernetes,docker,jenkins,ansible,terraform,prometheus,aws,gcp,azure,linux,nginx,yarn,npm,pnpm,jest,cypress,babel,prisma,vercel,netlify,webpack,bash,grafana,ps,ai,ae,pr&perline=12" />
+  </a>
+</div>
