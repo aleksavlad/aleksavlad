@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm **Aleksa Vladić**, an Electrical and Computer
 ### 🧠 Learning:
 - Advanced Next.js features (SSR, ISR, etc.).
 - Improving my **DevOps skills** with Docker and CI/CD.
-- Exploring **machine learning** and **AI**.
+- Exploring **Machine Learning** and **AI**.
 
 ### ⚡ Fun Fact:
 I’m always curious and love solving challenging problems. I’m also known to be **smart and courteous**.
