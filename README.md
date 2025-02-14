@@ -1,3 +1,4 @@
+![Visitors](https://komarev.com/ghpvc/?username=aleksavlad&label=Visitors&color=0e75b6&style=flat)
 
 # Hey there! 👋
 
@@ -7,7 +8,7 @@ Welcome to my GitHub profile! I'm **Aleksa Vladić**, an Electrical and Computer
 - **Frontend**: React, Next.js, Angular, Vue.js
 - **Backend**: Node.js, Express.js, Django, Laravel, Spring Boot, .NET, Ruby on Rails
 - **Languages**: JavaScript, TypeScript, Python, PHP, Java, C#, Ruby
-- **Database**: PostgreSQL, MySQL, MongoDB
+- **Database**: PostgreSQL, MySQL, MongoDB, GraphQL
 - **Other Tools**: Docker, Git, APIs, CI/CD, Kubernetes, GCP, AWS, Tailwind CSS
 
 ### 🌐 Comprehensive Services:
