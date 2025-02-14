@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm **Aleksa Vladić**, an Electrical and Computer
 - **Database**: PostgreSQL, MySQL, MongoDB, GraphQL
 - **Other Tools**: Docker, Git, APIs, CI/CD, Kubernetes, GCP, AWS, Tailwind CSS
 
+<!--
 ### 🌐 Comprehensive Services:
 - Software Solutions
 - Frontend Development
@@ -20,6 +21,7 @@ Welcome to my GitHub profile! I'm **Aleksa Vladić**, an Electrical and Computer
 - Real-Time Applications
 - SEO Optimization
 - Cloud Deployment
+-->
 
 ### 🧠 Learning:
 - Advanced Next.js features (SSR, ISR, etc.).
