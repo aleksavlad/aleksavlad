@@ -4,16 +4,11 @@
 Welcome to my GitHub profile! I'm **Aleksa Vladić**, an Electrical and Computer Engineering student passionate about **web development** and **programming**. I love building cool stuff, and my favorite language is **JavaScript**. 🌟
 
 ### 💻 What I work with:
-- **Frontend**: React, Next.js
-- **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL
-- **Other Tools**: Docker, Git, APIs
-
-### 🔧 Current Skills:
-- **Building fullstack apps** with React, Next.js, and Node.js.
-- Creating **REST APIs** using Express.js.
-- Working with **databases** like PostgreSQL.
-- Writing **clean and efficient code** in JavaScript.
+- **Frontend**: React, Next.js, Angular, Vue.js
+- **Backend**: Node.js, Express.js, Django, Laravel, Spring Boot, .NET, Ruby on Rails
+- **Languages**: JavaScript, TypeScript, Python, PHP, Java, C#, Ruby
+- **Database**: PostgreSQL, MySQL, MongoDB
+- **Other Tools**: Docker, Git, APIs, CI/CD, Kubernetes, GCP, AWS, Tailwind CSS
 
 ### 🧠 Learning:
 - Advanced Next.js features (SSR, ISR, etc.).
