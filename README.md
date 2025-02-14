@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<details>
- <summary>Github stats</summary>
+# Hey there! 👋
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleksavlad&show_icons=true&theme=tokyonight" alt="Vimmer github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzayenilyes&layout=compact&theme=tokyonight&langs_count=4" />|
-| ------------- | ------------- |
-  
-</details>
+Welcome to my GitHub profile! I'm **Aleksa Vladić**, an Electrical and Computer Engineering student passionate about **web development** and **programming**. I love building cool stuff, and my favorite language is **JavaScript**. 🌟
 
-## 💻 Technologies
-<div align="center">
- <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,zig,go,python,react,nextjs,nodejs,expressjs,nestjs,fastapi,htmx,angular,nuxtjs,tailwind,sass,materialui,threejs,supabase,mysql,wordpress,postgres,mongodb,redis,firebase,graphql,git,github,vscode,neovim,vim,figma,kubernetes,docker,jenkins,ansible,terraform,prometheus,aws,gcp,azure,linux,nginx,yarn,npm,pnpm,jest,cypress,babel,prisma,vercel,netlify,webpack,bash,grafana,ps,ai,ae,pr&perline=12" />
-  </a>
-</div>
+### 💻 What I work with:
+- **Frontend**: React, Next.js
+- **Backend**: Node.js, Express.js
+- **Database**: PostgreSQL
+- **Other Tools**: Docker, Git, APIs
+
+### 🔧 Current Skills:
+- **Building fullstack apps** with React, Next.js, and Node.js.
+- Creating **REST APIs** using Express.js.
+- Working with **databases** like PostgreSQL.
+- Writing **clean and efficient code** in JavaScript.
+
+### 🧠 Learning:
+- Advanced Next.js features (SSR, ISR, etc.).
+- Improving my **DevOps skills** with Docker and CI/CD.
+- Exploring **machine learning** and **AI**.
+
+### ⚡ Fun Fact:
+I’m always curious and love solving challenging problems. I’m also known to be **smart and courteous**.
+
+Thanks for visiting my GitHub profile! Feel free to check out my projects or collaborate. Let's build something amazing together! 🚀
