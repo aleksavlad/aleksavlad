@@ -2,14 +2,17 @@
 
 # Hey there! 👋
 
-Welcome to my GitHub profile! I'm **Aleksa Vladić**, an Electrical and Computer Engineering student passionate about **web development** and **programming**. I love building cool stuff, and my favorite language is **JavaScript**. 🌟
+Welcome to my GitHub profile! I'm **Aleksa Vladić**, a computer engineer with a strong passion for technology and innovation about **Web Development** and **Programming**. I love building cool stuff, and my favorite languages are **JavaScript**, **Python**, **PHP**, and **Java**. 🌟
+
+I enjoy tackling complex problems and turning ideas into reality through programming, and I’m always eager to learn new skills and technologies that can help me grow as a developer.
+
 
 ### 💻 What I work with:
-- **Frontend**: React, Next.js, Angular, Vue.js
-- **Backend**: Node.js, Express.js, Django, Laravel, Spring Boot, .NET, Ruby on Rails
+- **Frontend**: React, Next.js, Angular, Vue.js, Nuxt.js, WordPress
+- **Backend**: Node.js, Express.js, Django, Flask Laravel, Spring Boot, .NET, Ruby on Rails
 - **Languages**: JavaScript, TypeScript, Python, PHP, Java, C#, Ruby
 - **Database**: PostgreSQL, MySQL, MongoDB, GraphQL
-- **Other Tools**: Docker, Git, APIs, CI/CD, Kubernetes, GCP, AWS, Tailwind CSS
+- **Other Tools**: Docker, Git, APIs, CI/CD, Kubernetes, GCP, AWS, Tailwind CSS, Jest, Cypress
 
 <!--
 ### 🌐 Comprehensive Services:
@@ -28,7 +31,4 @@ Welcome to my GitHub profile! I'm **Aleksa Vladić**, an Electrical and Computer
 - Improving my **DevOps skills** with Docker and CI/CD.
 - Exploring **Machine Learning** and **AI**.
 
-### ⚡ Fun Fact:
-I’m always curious and love solving challenging problems. I’m also known to be **smart and courteous**.
-
-Thanks for visiting my GitHub profile! Feel free to check out my projects or collaborate. Let's build something amazing together! 🚀
+When I’m not coding, you will find me cycling, reading up on the latest tech trends, enjoying video games, or watching short films.
